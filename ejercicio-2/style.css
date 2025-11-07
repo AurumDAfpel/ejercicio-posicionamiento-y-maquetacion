@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ejercicio-2</title>
-    <style>
-                * {
+        * {
             box-sizing: border-box;
             margin: 0;
             padding: 0;
@@ -90,33 +83,3 @@
             background-color: #b44b7a;
             height: 15%;
         }
-    </style>
-</head>
-<body>
-    <div class="pagina">
-        <header>
-            <nav>
-                <a href="#">Inicio</a>
-                <a href="#">Servicios</a>
-                <a href="#">Contacto</a>
-            </nav>
-        </header>
-
-        <div class="contenido">
-            <section class="principal">
-                <div class="caja"></div>
-                <div class="caja"></div>
-                <div class="caja"></div>
-            </section>
-
-            <aside>
-                <div class="caja-aside"></div>
-                <div class="caja-aside"></div>
-                <div class="caja-aside"></div>
-            </aside>
-        </div>
-        <footer></footer>
-    </div>
-
-</body>
-</html>
