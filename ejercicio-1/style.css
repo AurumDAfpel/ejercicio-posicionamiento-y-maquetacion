@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.a{
+    float:  none;
+    border: 1px solid cadetblue;
+    width: 1000px;
+    height: 200PX;
+    margin: 0.5em auto;
+
+}
+
+.b{
+    position: relative;
+    left: 350px;
+    top: 3px;
+    background-color: gray;
+    height: 170px;
+    width: 200px;
+}
+
+.c{
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    border-radius: 50%;
+    position: absolute;
+    top: 55%;
+    left:45%;
+    transform: translate(-50% -50%);
+}
